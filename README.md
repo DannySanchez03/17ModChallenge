@@ -1,4 +1,3 @@
-# 17ModChallenge
 # JavaScript Regex Tutorial: Matching a Hex Value
 
 ## Introduction
